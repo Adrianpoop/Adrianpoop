@@ -1,0 +1,48 @@
+--
+TRASH TALK SCRIPT
+getgenv().Keybind = "" -- must be a letter dont include capitals
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/TrashTalk/main/README.md", true))()
+--
+Da Hood Scripts
+MAIN NOVA GUI DA HOOD
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-New/main/README.md", true))()
+--
+Cash Dropper Cmds
+
+--[[
+Script Made By $ Icxy#0001
+Prefix Is "$"
+
+Commands:
+$test -- says "Script Is Working!" if its working
+$bring -- brings dropper too player
+$setup -- sets up anti idle and starts dropping
+$wallet -- shows wallet
+$leave -- leaves the game
+$drop -- drops 7ks
+$undrop -- stops dropping
+$freeze -- freezes the dropper if u dont want it flinging the money everywhere
+$unfreeze -- Unfreezes you
+
+]]--
+
+getgenv().Settings =  {
+    ['Owner'] = '', -- Put the cash dropper owner user here must be exact user include the capitals
+	['BotNumber'] = '1' -- Max is 10
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Dhc-Dropper/main/README.md", true))()
+--
+NOVA COMMANDS
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/novacommands/main/README.md", true))()
+Commands Here : https://pastebin.com/Q9U1NUxK
+--
+Arsenal
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-Arsenal/main/README.md", true))()
+--
+Murder Mystery
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-Murder-Mystery/main/README.md", true))()
+--
+The Maze
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/NovasGuiTheMaze/main/README.md", true))()
+--
